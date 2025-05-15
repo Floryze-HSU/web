@@ -8,5 +8,5 @@
 
 --
 
-### Floryze är fortfarande under arbete och är för närvarande inte tillgänglig. Kom tillbaka snart!
-### Medan du väntar kan du också följa oss på [GitHub](https://github.com/floryze-hsu)!
+### Floryze är fortfarande under arbete och för närvarande inte tillgänglig. Kom tillbaka snart!
+### Medan du väntar kan du också följa oss på GitHub!
